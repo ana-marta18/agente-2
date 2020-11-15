@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNgJQBO1/8jpn9ejoO/n0rmL2w3kSKghbekCi1BYXluT1oU9ZyU3Ec5ZcjszGqopaAizZAdss9zIanYsgfBpJQ==",
+  "success": true,
+  "projectFilePath": "C:\\laragon\\www\\agente 2\\agente 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Marta\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ana Marta\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

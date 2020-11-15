@@ -1,0 +1,16 @@
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\agente 2.exe
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\agente 2.deps.json
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\agente 2.runtimeconfig.json
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\agente 2.runtimeconfig.dev.json
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\agente 2.dll
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\agente 2.pdb
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+C:\laragon\www\agente 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.csprojAssemblyReference.cache
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.AssemblyInfoInputs.cache
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.AssemblyInfo.cs
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.csproj.CoreCompileInputs.cache
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.csproj.CopyComplete
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.dll
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.pdb
+C:\laragon\www\agente 2\obj\Debug\netcoreapp3.1\agente 2.genruntimeconfig.cache
