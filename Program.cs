@@ -15,7 +15,6 @@ namespace agente_2
             almacenamiento.WriteLine(mensaje);
             almacenamiento.Close();
 
-
              String s1=null;
             //Creamos un do while para repetir.
             do{
